@@ -14,4 +14,3 @@ Willam E. Shotts, Jr.
 
 
 -----
- <object data="https://github.com/ulead/LinuxCommandLineArabic/blob/main/4_447517720884281396.pdf" width="1000" height="1000" type='application/pdf'/> 
